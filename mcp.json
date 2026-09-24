@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "back4app": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@back4app/mcp-server-back4app@latest",
+        "--account-key",
+        "YOUR_ACCOUNT_KEY"
+      ]
+    }
+  }
+}
